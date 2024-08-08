@@ -1,0 +1,3 @@
+displayName = Vocaloid Collection
+author = PointZero
+version = 0.1
